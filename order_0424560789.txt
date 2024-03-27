@@ -1,0 +1,5 @@
+Order details:
+Name: Alex Smith
+Order number: 0424560789
+Coffee: Cappuccino (30210)
+Milk: Soy

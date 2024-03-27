@@ -1,0 +1,5 @@
+Order details:
+Name: Anthony Vu
+Order number: 0430507888
+Coffee: Flat White Sucre (30223)
+Milk: Soy

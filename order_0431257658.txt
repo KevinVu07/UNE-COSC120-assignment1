@@ -1,0 +1,5 @@
+Order details:
+Name: Kevin Vu
+Order number: 0431257658
+Coffee: Macchiato (30217)
+Milk: Full-cream

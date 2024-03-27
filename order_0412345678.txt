@@ -1,0 +1,5 @@
+Order details:
+Name: Kevin Vu
+Order number: 0412345678
+Coffee: Cappuccino (30210)
+Milk: Soy

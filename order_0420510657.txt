@@ -1,0 +1,5 @@
+Order details:
+Name: Mikey Vu
+Order number: 0420510657
+Item: Cappuccino (30210)
+Milk: Full-cream

@@ -1,0 +1,5 @@
+Order details:
+Name: Trang Tran
+Order number: 0430201256
+Item: Mocha (30213)
+Milk: [Full-cream]

@@ -1,0 +1,5 @@
+Order details:
+Name: Kevin Vu
+Order number: 0547894666
+Item: Flat White Sucre (30223)
+Milk: Soy
